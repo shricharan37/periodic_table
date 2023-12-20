@@ -1,0 +1,46 @@
+.non_metal{
+background-color:#00FF00;
+}
+.noble{
+background-color:#00FFFF;
+}
+.alkali{
+background-color:#ff7f50;
+}
+.alkali_earth{
+background-color:#ffd700;
+}
+.halogen{
+background-color:#20b2aa;
+}
+.transition_metal{
+background-color:#f08080;
+}
+.other_non_metal{
+background-color:#808080;
+}
+.metal{
+background-color:#ffb6c1
+}
+.whitespace{
+background-color:white;
+}
+.Las{
+background-color:#ff00ff;
+}
+.Acs{
+background-color:#c71585;
+}
+table{
+margin-left: auto;
+margin-right: auto;
+width: 500px;
+text-align: center;
+}
+h1{
+text-align:center;
+}
+table td:hover{
+background-color:white;
+cursor:pointer;
+}
